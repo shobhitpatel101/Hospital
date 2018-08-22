@@ -1,0 +1,60 @@
+c:\users\shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+c:\users\shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+c:\users\shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+c:\users\shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+c:\users\shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.preg.resources
+c:\users\shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.login.resources
+c:\users\shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.loading.resources
+c:\users\shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdet.resources
+C:\Users\Shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.plist.resources
+C:\Users\Shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.bbank.resources
+C:\Users\Shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.staff.resources
+C:\Users\Shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.billing.resources
+C:\Users\Shobhit\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.hospital.resources
+I:\hospital\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+I:\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+I:\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+I:\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.bbank.resources
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.billing.resources
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.staff.resources
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdet.resources
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.plist.resources
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.preg.resources
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.login.resources
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.loading.resources
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.hospital.resources
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\Shobhit\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.bbank.resources
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.billing.resources
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.staff.resources
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdet.resources
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.plist.resources
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.preg.resources
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.login.resources
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.loading.resources
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.hospital.resources
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\users\Downloads\hospital\hospital\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
